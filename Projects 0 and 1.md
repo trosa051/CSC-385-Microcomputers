@@ -32,22 +32,22 @@ Test
 - Tilt Sensor
 - Transistor
 - USB Cable
----
+
 
 ## I will supply myself with the following:
  - 9v Battery
 
----
+
 
  ## I Have installed Arduino Software (IDE) 
- <input type="checkbox" disabled unchecked/> 
+ <input type="checkbox" disabled unchecked/> Yes
 
----
+
 
 ## Show off a picture of your workstation
 <img src="https://tjarosar.io/media/arduinoWorkspace.jpeg" width="400">
 
----
+
 
 ## What is this diagram depicting?
 [//]: # (https://www.circuit-diagram.org/editor/)
@@ -55,5 +55,5 @@ Test
 
 A parallel circuit
 
----
-## Draw a series 
+
+## Draw a circuit in series
