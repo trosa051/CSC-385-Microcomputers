@@ -56,6 +56,8 @@ void loop(){
     }
 }
 ```
+When the code executes, the green LED starts off as ON while the button is not pressed. 
+Once pressed, the green LED turns off and the red LEDs begin to flash.
 
 ## Applied Demo
 <!-- Upload pictures that show that the project has worked -->
