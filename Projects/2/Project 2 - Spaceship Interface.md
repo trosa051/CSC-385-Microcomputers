@@ -78,5 +78,3 @@ This is after the button is pressed
  - This project was very straight forward and I feel pretty confident going forward with the other projects.
  - I could add other conditions like adding more buttons or LEDs as a way to expand on this project.
  - Difficulty: 2/10
-
-
