@@ -1,0 +1,34 @@
+Monday 10/11/2021
+6:05PM starting project 1
+6:20PM trying to understand which resistors came with my kit
+6:48PM figured out, labelled and organized all of the resistors, back to project 1
+    -note: would benefit from doing that before getting started
+6:55PM testing out gif creation on phone
+7:16PM few more gifs done
+7:18PM done project 1, now reading over the documentation for project 2
+    -note: need to upload those gifs to the github
+7:42PM finished the physical wiring, working on code now
+7:55PM finished code and made gifs showing output
+7:56PM Starting to read up on project 3
+8:31PM Troubleshooting temperature sensor data, hardware and code are done
+8:51PM still dont know what the issue is
+8:56pm Its a common issue that the... temperature sensor is missing from the kit
+9:05PM For the purpose of being able to show off a functioning demo I replaced the missing tmp sensor with a potentiometer and will change the numbers now to give it a less sensitive step
+9:19PM Reading spec for project 4
+9:35PM the phototransistors require a bit of elbow grease to get together but still putting it together rn
+9:54PM mostly listening to music at this point but its all put together, its time to write the code
+10:02PM had forgotten to wire up 3 wires for the rgb light, back to coding now
+10:20PM project 4 done, have been playing around with it for the past 5 minutes at least
+10:23PM taking a 5 minute break, but also reading project 6
+11:36PM that was a bit more than 5 minutes, taking apart the last project now
+11:42PM Hardware side done, software's turn
+Tuesday 10/12/2021
+12:02AM Finished the theramin, had to fix some wiring
+12:38AM Just remembered about project 11's LCD screen, starting hardware now
+1:08AM Finished hardware for project 11, getting into the code
+1:15AM Starting code now
+1:28AM Code done, taking a break
+2:41AM Taking apart project 11 and putting together hardware for project 14
+2:50AM Finished hardware, very simple compared to project 11. Software time
+3:10AM Code done, messing around with processing code with arduino 
+
