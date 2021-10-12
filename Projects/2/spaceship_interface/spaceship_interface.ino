@@ -1,9 +1,9 @@
-int switchState = 0
+int switchState = 0;
 void setup(){
-    pinmode(3, OUTPUT);
-    pinmode(4, OUTPUT);
-    pinmode(5, OUTPUT);
-    pinmode(1, INPUT);
+    pinMode(3, OUTPUT);
+    pinMode(4, OUTPUT);
+    pinMode(5, OUTPUT);
+    pinMode(2, INPUT);
 }
 void loop(){
     switchState = digitalRead(2);
@@ -13,8 +13,9 @@ void loop(){
         digitalWrite(5,LOW);  // Red LED
     }
     else{                     // The button has been pressed
+        delay(250);
         digitalWrite(3,LOW); // Grn LED
-        digitalWrite(4,HIGH);  // Red LED
+        digitalWrite(4,LOW);  // Red LED
         digitalWrite(5,HIGH);  // Red LED
 
     delay(250); //250 is a quarter of a second
