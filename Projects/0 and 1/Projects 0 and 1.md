@@ -40,20 +40,31 @@ Test
 
 
  ## I Have installed Arduino Software (IDE) 
- <input type="checkbox" disabled unchecked/> Yes
+ <input type="checkbox" disabled checked/> Yes
 
 
 
 ## Show off a picture of your workstation
-<img src="https://tjarosar.io/media/arduinoWorkspace.jpeg" width="400">
+<img src="arduinoWorkspace.jpeg" width="400">
 
+## Assemble your Arduino and breadboard 
+<img src="assembled.JPG" width="400">
 
+## Label your resistors
+<img src="labeled.JPG" width="400">
 
 ## What is this diagram depicting?
 [//]: # (https://www.circuit-diagram.org/editor/)
-<img src="https://tjarosar.io/media/circuit.png" width="400">
+<img src="circuit.png" width="400">
 
 A parallel circuit
 
+## Build the circuit
+<img src="parallel1.gif" width="400">
 
 ## Draw a circuit in series
+[//]: # (https://www.circuit-diagram.org/editor/)
+<img src="seriesCircuit.png" width="400">
+
+## Build the circuit
+<img src="series1.gif" width="400">
