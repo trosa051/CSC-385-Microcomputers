@@ -1,4 +1,4 @@
-# Project 3 - Love-o-Meter
+# Project 4 - Color Mixing Lamp
 
 Name: TJ Rosario-Rosa
 <!--
