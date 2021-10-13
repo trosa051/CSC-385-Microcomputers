@@ -61,17 +61,18 @@ Once pressed, the green LED turns off and the red LEDs begin to flash.
 
 ## Applied Demo
 <!-- Upload pictures that show that the project has worked -->
-This is a picture of the breadboard and the Arduino
 
-<img src="https://placedog.net/498?random" width="400">
 
-This is before the button is pressed
 
-<img src="https://placedog.net/499?random" width="400">
+This is a gif with the provided "spaceship interface"
 
-This is after the button is pressed
+<img src="20211011_195227-ANIMATION.gif" width="400">
 
-<img src="https://placedog.net/500?random" width="400">
+and under the hood...
+
+<img src="20211011_195406-ANIMATION.gif" width="400">
+
+
 
 ## Conclusion 
 <!-- What went wrong/right? What can you do to make this better? How difficult did you find this project? -->

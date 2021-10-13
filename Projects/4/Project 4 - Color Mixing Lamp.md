@@ -10,20 +10,22 @@ Name: TJ Rosario-Rosa
 
 ## Outline
 <!-- Summarize the project in a clear, concise few sentences. -->
-This project is designed to 
+This project is designed to show the use of Pulse Width Modulation (PWM) and introduces photoresistors.
 
 
 ## Circuit Diagram
 <!-- https://www.circuit-diagram.org/editor/ -->
-<img src="  " width="400">
+<img src="4circuit.png" width="400">
 
 
 
-## Code Walkthrough
+## Code Highlights
 <!-- Post and document important code here -->
-
+Last project taught the use the analog controllers, but the function of note here allows PWM components to be controlled.
 ```arduino
-
+analogWrite(redLEDPin, redValue);
+analogWrite(greenLEDPin, greenValue);
+analogWrite(blueLEDPin, blueValue);
 ```
 
 
@@ -31,11 +33,14 @@ This project is designed to
 <!-- Upload pictures that show that the project has worked -->
 This is a picture of the breadboard and the Arduino
 
-<img src="https://placedog.net/498?random" width="400">
+<img src="top_down.JPG" height="400">
+
+I used color changing lights to get the photoresistors to react faster
+
+<img src="colorMixing2.gif" height="400">
 
 
 ## Conclusion 
 <!-- What went wrong/right? What can you do to make this better? How difficult did you find this project? -->
- - 
- - 
- - Difficulty: 
+ - The implementation of the photoresistors with "gel" and plastic bits is wonky at best. Carefully bend the transistors in a way that makes the plastic bits secured.
+ - Difficulty: 4/10

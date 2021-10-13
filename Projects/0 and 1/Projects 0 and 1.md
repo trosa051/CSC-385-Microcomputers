@@ -63,7 +63,6 @@ A parallel circuit
 <img src="parallel1.gif" width="400">
 
 ## Draw a circuit in series
-[//]: # (https://www.circuit-diagram.org/editor/)
 <img src="seriesCircuit.png" width="400">
 
 ## Build the circuit
