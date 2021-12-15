@@ -340,9 +340,9 @@ void tftPrintTest() {
   tft.setTextColor(ST77XX_WHITE);
   tft.println("Sketch has been");
   tft.println("running for: ");
-  tft.setTextColor(ST77XX_MAGENTA);
+  tft.setTextColor(ST77XX_MAGENTA,ST77XX_BLACK);
   tft.print(millis() / 1000);
-  tft.setTextColor(ST77XX_WHITE);
+  tft.setTextColor(ST77XX_WHITE,ST77XX_BLACK);
   tft.print(" seconds.");
 }
 
